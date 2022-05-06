@@ -1,3 +1,0 @@
----
-- name: Upgrade all packages (Redhat)
-  debug: msg="This playbook is not written yet"

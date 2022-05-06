@@ -1,4 +1,0 @@
----
-# vars file for set-hostkeys
-set_hostkeys_restart_service: false
-set_hostkeys_json: 'hostkeys.json'

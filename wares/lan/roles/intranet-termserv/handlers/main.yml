@@ -1,6 +1,0 @@
----
-# handlers file for intranet-termserv
-- name: restart smbd
-  service:
-    name: smbd
-    state: restarted
